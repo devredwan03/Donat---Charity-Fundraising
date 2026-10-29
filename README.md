@@ -1,2 +1,1 @@
-Charity-Fundraising
-Professional Web Designer, Developer &amp; WordPress Expert .Helping Businesses and Creators Build Stunning, Functional Websites.
+A modern and responsive charity fundraising website built with HTML, CSS, and JavaScript.
